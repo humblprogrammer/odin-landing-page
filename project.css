@@ -10,6 +10,7 @@ header{
     background-color: #1F2937;
     font-family: sans-serif;
     color: white;
+    padding-bottom: 30px;
 }
 
 body{
@@ -21,6 +22,7 @@ body{
     font-family: sans-serif;
     color: white;
     padding-bottom: 10px;
+    padding-top: 30px;
 }
 
 a{
