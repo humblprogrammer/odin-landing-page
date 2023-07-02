@@ -52,3 +52,14 @@ li.logocontainer{
 .links > li{
     margin: 8px;
 }
+
+.imagebox{
+    display: flex;
+    flex: 1;
+    padding: 50px;
+    width: 500px;
+    height: 300px;
+    justify-content: center;
+    background-color: #E5E7EB;
+    color: grey;
+}
