@@ -1,6 +1,7 @@
 li{
     text-decoration: none;
     list-style-type: none;
+
 }
 
 header{
@@ -22,8 +23,9 @@ body{
     background-color: #1F2937;
     font-family: sans-serif;
     color: white;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     padding-top: 30px;
+    padding-left: 60px;
 }
 
 a{
@@ -37,4 +39,16 @@ a{
 
 li.logocontainer{
     font-size: 24px;
+    padding-left: 60px;
+}
+
+.links{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.links > li{
+    margin: 8px;
 }
