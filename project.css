@@ -19,6 +19,8 @@ body{
     margin: 0;
 }
 
+
+
 .section1{
     display: flex;
     background-color: #1F2937;
@@ -27,7 +29,10 @@ body{
     padding-bottom: 20px;
     padding-top: 30px;
     padding-left: 60px;
+    flex-direction: column;
 }
+
+
 
 a{
     color: white;
@@ -63,5 +68,10 @@ li.logocontainer{
     justify-content: center;
     background-color: #E5E7EB;
     color: grey;
-   
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    background-color: #1F2937;
 }
