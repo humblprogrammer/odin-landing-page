@@ -20,6 +20,7 @@ body{
 }
 
 .section1{
+    display: flex;
     background-color: #1F2937;
     font-family: sans-serif;
     color: white;
@@ -57,9 +58,10 @@ li.logocontainer{
     display: flex;
     flex: 1;
     padding: 50px;
-    width: 500px;
-    height: 300px;
+    width: 200px;
+    height: 100px;
     justify-content: center;
     background-color: #E5E7EB;
     color: grey;
+   
 }
