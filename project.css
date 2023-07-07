@@ -109,3 +109,23 @@ div.box1{
 div.box4{
     padding-right: 300px;
 }
+
+div.section3{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 450px;
+}
+
+div.section3 > p{
+    font-size: 36px;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+div.section3 > h3{
+    padding-left: 500px;
+}
+
