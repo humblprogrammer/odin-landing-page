@@ -85,3 +85,26 @@ h2{
     text-align: center;
 }
 
+li.display{
+    height: 80px;
+    width: 80px;
+    border: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 5px;
+}
+
+div.displayarray{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+
+div.box1{
+    padding-left: 300px;
+}
+
+div.box4{
+    padding-right: 300px;
+}
