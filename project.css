@@ -129,3 +129,29 @@ div.section3 > h3{
     padding-left: 500px;
 }
 
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    padding: 50px;
+}
+
+div.footerholder{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+div.button{
+    padding-left: 400px;
+    padding-top: 10px;
+}
+
+div.button > li a{
+    border: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
